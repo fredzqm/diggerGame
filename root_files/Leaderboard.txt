@@ -1,0 +1,20 @@
+Best Player
+7400
+Fantastic Player
+6320
+Good Player
+5230
+Bob
+4210
+Smith
+3050
+Goerge
+1900
+Steven
+2000
+Fred
+1650
+
+0
+
+0

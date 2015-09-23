@@ -1,0 +1,14 @@
+uppercase means that there is no dirt in this Square,
+Here are five different situations:
+I -- Hero
+H -- Hobbin
+N -- Nobbin
+O -- Tunnel
+B -- Gold bag dropped outside the gold
+G -- gold spratter out from the gold bag
+
+lower means that there is dirt in this Square,
+x -- Dirt
+e -- Dirt with Gem
+b -- Dirt with GoldBag
+
